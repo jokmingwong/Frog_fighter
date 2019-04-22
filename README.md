@@ -1,4 +1,6 @@
-# Cocos2d-x还原飞机大战
+# Frog_fighter
+一个由C++语言和cocos-2d框架开发的，飞机大战和捡金币游戏改版。
+
 
 ## 开发
 
@@ -45,8 +47,6 @@
 1. 背景音乐无法加载，音乐文件放在Resource\sound 文件目录下，加载背景音乐的函数`preLoadBackgroundMusic()`在`LoadingPageScene.cpp`中，播放音乐函数在`HelloWorldScene.cpp`中，确保播放时文件路径正确。
 
 2. 游戏过程中会产生控制的主角连撞敌机导致游戏结束，代码缺少控制过渡时间的函数。
-
-   
 
 
 
