@@ -14,6 +14,7 @@
 
 ## 打开游戏方式
 
+将cocos2d-x的配置文件放在目录下。
 游戏玩家直接打开：proj.win32文件下Release.win32下的HelloWorld.exe
 
 代码查看以及编译运行：用Visual studio打开proj.win32目录下的HelloWorld.sln，若编译时候遇到缺少开发包错误，按编译报错提示 尝试Retarget the sulution后再编译运行
